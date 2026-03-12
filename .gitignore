@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Uploaded PDFs
+documents/
+*.pdf
+
+# Vector database
+faiss_index/
+
+# OS files
+.DS_Store
+Thumbs.db
